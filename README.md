@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-# Wanderer_Website
- 
-A full-stack Airbnb-inspired web application named **Wanderer**, designed for exploring and listing rental properties worldwide.
 
-## 🔗 Project Link:
-[Wanderer Website GitHub Repo](https://github.com/Ritviz01/Wanderer_Website.git)
 
 ---
 
@@ -38,7 +32,7 @@ A full-stack Airbnb-inspired web application named **Wanderer**, designed for ex
 npm install
 
 
-mongodb://127.0.0.1:27017/wanderer
+mongodb://127.0.0.1:27017/ridelo
 
 
 node index.js
